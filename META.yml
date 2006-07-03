@@ -1,4 +1,4 @@
-abstract: Write Python-like generators in Perl
+abstract: Python-like generator subroutines for Perl
 author: "Ingy d\xC3\xB6t Net <ingy@cpan.org>"
 distribution_type: module
 generated_by: Module::Install version 0.61
@@ -11,4 +11,4 @@ no_index:
 requires: 
   Module::Compile: 0.17
   perl: 5.6.1
-version: 0.10
+version: 0.11

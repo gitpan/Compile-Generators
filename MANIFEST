@@ -13,3 +13,5 @@ MANIFEST			This list of files
 META.yml
 README
 t/generator.t
+t/if.t
+t/multi.t
